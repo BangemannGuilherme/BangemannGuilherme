@@ -58,11 +58,3 @@ I specialize in transforming **complex regulations and business rules into clean
 - Long-term maintainability
 
 > “Code is like humor. When you have to explain it, it’s bad.”
-
----
-
-## 📊 GitHub Stats
-
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=BangemannGuilherme&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BangemannGuilherme&layout=compact&theme=tokyonight)
