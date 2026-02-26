@@ -8,7 +8,7 @@
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme%20Bangemann-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-keunecke-bangemann/)
-[![GitHub](https://img.shields.io/badge/GitHub-GuilhermeBangemann-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeBangemann)
+[![GitHub](https://img.shields.io/badge/GitHub-BangemannGuilherme-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BangemannGuilherme)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/guikbange)
 
 ---
@@ -63,6 +63,6 @@ I specialize in transforming **complex regulations and business rules into clean
 
 ## 📊 GitHub Stats
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeBangemann&show_icons=true&theme=tokyonight)
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=BangemannGuilherme&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBangemann&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BangemannGuilherme&layout=compact&theme=tokyonight)
